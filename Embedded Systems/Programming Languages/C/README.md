@@ -10,3 +10,7 @@
 - **[The Power of 10: Rules for Developing Safety-Critical Code](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)**
 > Were created in 2006 by Gerard J. Holzmann of the NASA/JPL Laboratory for Reliable Software.[1] The rules are intended to eliminate certain C coding practices that make code difficult to review or statically analyze. These rules are a complement to the MISRA C guidelines and have been incorporated into the greater set of JPL coding standards.
 > [PDF](https://spinroot.com/gerard/pdf/P10.pdf)
+
+- **[Recommended C style and coding rules](https://github.com/MaJerle/c-code-style)**
+> This document describes C code style used by Tilen MAJERLE(Product Line Marketing Manager at STMicroelectronics
+) in his projects and libraries.
