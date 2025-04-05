@@ -27,7 +27,7 @@ The most common programming languages for embedded systems are:
   - High performance like C
   - Used in: Medical devices, Automotive, Aerospace
       
-## [Coding conventions](https://en.wikipedia.org/wiki/Coding_conventions)
+## [Coding sandard/conventions](https://en.wikipedia.org/wiki/Coding_conventions)
 > Are a set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
 > 
 > These conventions usually cover file organization, indentation, comments, declarations, statements, white space, naming conventions, programming practices, programming principles, programming rules of thumb, architectural best practices, etc.
