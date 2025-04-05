@@ -1,0 +1,1 @@
+- **[AUTOSAR Layered Software Architecture](https://www.autosar.org/fileadmin/standards/R22-11/CP/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf)**
