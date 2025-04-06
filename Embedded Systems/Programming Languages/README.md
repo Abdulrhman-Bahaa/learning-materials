@@ -1,4 +1,5 @@
 # Programming Languages
+These are my notes that are related ro programming languages, **NOT** a start point for learning
 
 The most common programming languages for embedded systems are:
 - ## 1️⃣ C (Most Widely Used)
