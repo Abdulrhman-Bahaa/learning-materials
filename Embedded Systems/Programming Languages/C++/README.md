@@ -1,6 +1,6 @@
-# Differences Between C and C++
+## Differences Between C and C++
 
-## 🔧 Language Type & Paradigm
+### 🔧 Language Type & Paradigm
 
 | Feature                    | C                         | C++                                                    |
 |----------------------------|---------------------------|--------------------------------------------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Standard Library & Built-ins
+### 🛠️ Standard Library & Built-ins
 
 | Feature               | C                              | C++                                                             |
 |----------------------|--------------------------------|------------------------------------------------------------------|
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Language Features & Syntax
+### 🧠 Language Features & Syntax
 
 | Feature               | C                        | C++                                                               |
 |----------------------|--------------------------|--------------------------------------------------------------------|
@@ -40,7 +40,7 @@
 
 ---
 
-## 🧪 Compilation & Performance
+### 🧪 Compilation & Performance
 
 | Feature               | C                      | C++                                               |
 |----------------------|------------------------|---------------------------------------------------|
@@ -50,7 +50,7 @@
 
 ---
 
-## 💡 Use Cases
+### 💡 Use Cases
 
 | Use Case               | C                     | C++                                |
 |------------------------|----------------------|-------------------------------------|
@@ -62,7 +62,21 @@
 
 ---
 
-## 🎯 Summary
+### 🎯 Summary
 
 - **C** = Simple, procedural, close to hardware, fast.
 - **C++** = Adds abstraction, OOP, generics, and STL to C — still fast and powerful.
+
+## C++ STL
+Stands for The Standard Template Library.  that consist of different data structures and algorithms to effectively store and manipulate data.
+If we say that data structures store data, we can say that algorithms are used to solve different problems, often by searching through and manipulating those data structures.
+Using the right data structure and algorithm makes your program run faster, especially when working with lots of data.
+
+### Key Concepts of the STL
+The key components of the STL consist of containers, iterators, and algorithms, and the relationship betweem them:
+- Containers are data structures that provides a way to store data, like vectors, lists, etc.
+- Iterators are objects used to access elements of a data structure.
+- Algorithms include functions, like sort() and find(), that perform operations on data structures through iterators.
+
+In Computer Science, data structures and algorithms go hand in hand. A data structure is not worth much if you cannot search through it or manipulate it efficiently using algorithms, and algorithms are not worth much without a data structure to work on.
+[STL](https://learn.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=msvc-170)
